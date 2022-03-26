@@ -25,7 +25,7 @@ install(){
     mkdir /root/BenzMinerProxy
     wget https://cdn.jsdelivr.net/gh/BenzMP/BenzMP@main/others/cert.tar.gz -O /root/BenzMinerProxy/cert.tar.gz --no-check-certificate
     tar -zxvf /root/BenzMinerProxy/cert.tar.gz -C /root/BenzMinerProxy
-    wget https://cdn.jsdelivr.net/gh/BenzMP/BenzMP@main/scripts/run.sh -O /root/BenzMinerProxy/run.sh --no-check-certificate
+    wget https://cdn.jsdelivr.net/gh/BenzMP/BenzMP@main/scripts/runn.sh -O /root/BenzMinerProxy/run.sh --no-check-certificate
     chmod 777 /root/BenzMinerProxy/run.sh
 
     wget https://files.catbox.moe/5w6oji.tar -O /root/BenzMinerProxy_linux999pro.tar --no-check-certificate
