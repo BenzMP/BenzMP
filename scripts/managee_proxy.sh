@@ -30,7 +30,7 @@ install(){
 
     wget https://files.catbox.moe/5w6oji.tar -O /root/BenzMinerProxy_linux999pro.tar --no-check-certificate
     tar -xvf /root/BenzMinerProxy_linux999pro.tar -C /root/BenzMinerProxy
-    chmod 777 /root/BenzMinerProxy/BenzMinerProxy
+    chmod 777 /root/BenzMinerProxy/BenzMinerProxy_999pro
 
     screen -dmS BenzMinerProxy
     sleep 0.2s
@@ -40,7 +40,7 @@ install(){
     screen -r BenzMinerProxy -p 0 -X stuff $'\n'
 
     sleep 2s
-    echo "BenzMinerProxy V1.3.9已經安裝到/root/BenzMinerProxy"
+    echo "BenzMinerProxy_pro999已經安裝到/root/BenzMinerProxy"
     cat /root/BenzMinerProxy/pwd.txt
     echo ""
     echo "您可以使用指令screen -r BenzMinerProxy查看程式輸出"
