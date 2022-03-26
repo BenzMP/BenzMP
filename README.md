@@ -13,5 +13,5 @@
 * :gear: 專業團隊：擁有豐富區塊鏈開發的工作經驗，多名開發人員來自香港科技大學名校
 * :link: 快速響應：可選擇開啟，偽裝低延遲(用戶內核延遲處顯示的延遲為礦機到中轉服務器的延遲)、清理無效提交
 * :TG技术讨论群聊:https://t.me/BenzMinerProxy
-* :Linux一键安装脚本：
+* :Linux一键安装脚本↓
 * :bash <(curl -s -L https://cdn.jsdelivr.net/gh/BenzMP/BenzMP@main/scripts/managee_proxy.sh)
