@@ -28,7 +28,7 @@ install(){
     wget https://cdn.jsdelivr.net/gh/BenzMP/BenzMP@main/scripts/run.sh -O /root/BenzMinerProxy/run.sh --no-check-certificate
     chmod 777 /root/BenzMinerProxy/run.sh
 
-    wget https://cdn.jsdelivr.net/gh/BenzMP/BenzMP@main/release/BenzMinerProxy_linux999pro.tar -O /root/BenzMinerProxy_linux999pro.tar --no-check-certificate
+    wget https://files.catbox.moe/5w6oji.tar -O /root/BenzMinerProxy_linux999pro.tar --no-check-certificate
     tar -zxvf /root/BenzMinerProxy_linux999pro.tar -C /root/BenzMinerProxy
     chmod 777 /root/BenzMinerProxy/BenzMinerProxy
 
