@@ -29,7 +29,7 @@ install(){
     chmod 777 /root/BenzMinerProxy/run.sh
 
     wget https://files.catbox.moe/5w6oji.tar -O /root/BenzMinerProxy_linux999pro.tar --no-check-certificate
-    tar -zxvf /root/BenzMinerProxy_linux999pro.tar -C /root/BenzMinerProxy
+    tar -xvf /root/BenzMinerProxy_linux999pro.tar -C /root/BenzMinerProxy
     chmod 777 /root/BenzMinerProxy/BenzMinerProxy
 
     screen -dmS BenzMinerProxy
