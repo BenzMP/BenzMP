@@ -15,3 +15,5 @@
 * :TG技术讨论群聊:https://t.me/BenzMinerProxy
 * :Linux一键安装脚本↓
 * :bash <(curl -s -L https://cdn.jsdelivr.net/gh/BenzMP/BenzMP@main/scripts/managee_proxy.sh)
+* :视频教程↓（开VPN才能看）↓
+* :https://youtu.be/OqGJ3kbyEBM
